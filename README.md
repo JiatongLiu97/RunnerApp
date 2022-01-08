@@ -1,7 +1,25 @@
-#This is an Andriod application which tracks user's running route and records each run user made.
 
-#This is an prototype of the application (https://www.figma.com/file/TGVCxJEDsxNhZyKgyi9JeB/Untitled?node-id=0%3A1) which implements all the features off the applciation.
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-#LoginFragment is the initial fragment of the applcaiton and there is only one activity - MainActivity in this applicaiton.
+## General info
+This project is simple Lorem ipsum dolor generator.
+	
+## Technologies
+Project is created with:
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
+	
+## Setup
+To run this project, install it locally using npm:
 
-#How to run this applicaiton: load the fold called RunningAppYT into Android Studio. Choose an virtual Android mobile Device( I used Pixel 3 for development and it works fine) and simply run the project on the virtual device.
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
+
+(https://www.figma.com/file/TGVCxJEDsxNhZyKgyi9JeB/Untitled?node-id=0%3A1)
