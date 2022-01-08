@@ -24,15 +24,17 @@ also provides user the basic statistics of their runs. The user can log in or re
 	
 ## Technologies
 Project is created with:
+* Language : Kotlin
 * Navigation Components
 * Dagger-Hilt
 * Coroutines
 * Google Maps SDK
 * LiveData 
 * Firebase Authentication
+
 	
 ## Setup
-To run this project, open it locally using Android Studio, and change the line of code in RunnerApp/app/src/main/res/values/strings.xml: `put-your-code-here`
+To run this project, open it locally using Android Studio and change the line of code in RunnerApp/app/src/main/res/values/strings.xml: `<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false"> #Enter your API Here </string>` to your Google Map API.
 
 
 ## Acknowledgements
