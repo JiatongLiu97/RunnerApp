@@ -12,7 +12,7 @@ The prototype of the application: [prototype](https://www.figma.com/file/TGVCxJE
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-- This is a simple Android application wchih tracks user's runnings and records each run in according user's account, 
+- This is a simple Android application which tracks user's runnings and records each run in according user's account, 
 
 also provides user the basic statistics of their runs. The user can log in or register with their email.
 
