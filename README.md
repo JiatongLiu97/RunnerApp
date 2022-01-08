@@ -32,13 +32,8 @@ Project is created with:
 * Firebase Authentication
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, open it locally using Android Studio, and change the line of code in RunnerApp/app/src/main/res/values/strings.xml: `put-your-code-here`
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
 
 ## Acknowledgements
 - This project was based on [this tutorial](https://www.youtube.com/watch?v=XqkFTG10sRk&list=PLQkwcJG4YTCQ6emtoqSZS2FVwZR9FT3BV&index=1).
